@@ -10,19 +10,19 @@
             </div>
             <!-- Form -->
             <div class="flex flex-wrap p-6">
-                <div class = "md:w-1/2 w-full p-2">
+                <div class = "md:w-1/2 w-full lg:w-1/4 p-2">
                     <label class="w-full font-sans font-normal text-xl">First Name </label>
                     <input type="text" class ="border border-collapse border-black w-full">
                 </div>
-                <div class = "md:w-1/2 w-full p-2 text-left">
+                <div class = "md:w-1/2 w-full lg:w-1/4 p-2 text-left">
                     <label class="w-full font-sans font-normal text-xl">Last Name </label>
                     <input type="text" class ="border border-collapse border-black w-full">
                 </div>
-                <div class = "md:w-1/2 w-full p-2 text-left">
+                <div class = "md:w-1/2 w-full lg:w-1/4 p-2 text-left">
                     <label class="w-full font-sans font-normal text-xl">Email </label>
                     <input type="text" class ="border border-collapse border-black w-full">
                 </div>
-                <div class = "md:w-1/2 w-full p-2 text-left">
+                <div class = "md:w-1/2 w-full lg:w-1/4 p-2 text-left">
                     <label class="w-full font-sans font-normal text-xl">Department </label>
                     <select class ="border border-collapse border-black w-full">
                         <option>CCSE</option>
