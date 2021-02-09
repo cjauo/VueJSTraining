@@ -3,7 +3,7 @@
         <div class="flex flex-col w-1/5">
             <div class="flex flex-wrap bg-white p-8 border border-collapse border-gray-300 rounded-t-sm">
                 <!-- label and input -->
-                <label class="text-xl font-sans w-full text-left ml-2">Department</label>
+                <label class="text-xl font-sans w-full text-left ml-2">Offices</label>
                 <input type='text' class='border border-collapse border-gray-300 mt-4 ml-2 p-1 w-full rounded-sm'>
             </div>
             <div class = "bg-gray-100 border border-collapse border-gray-300 flex justify-end items-end p-2">
